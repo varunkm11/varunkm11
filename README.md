@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar Singh</h1>
 <h3 align="center">Aspiring Software Engineer with a passion for Artificial Intelligence & Machine Learning. Currently Pursuing B.E and exploring innovative solutions through technology.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkm11&label=Profile%20views&color=0e75b6&style=flat" alt="varunkm11" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunkm11" alt="varunkm11" /></a> </p>
 
@@ -29,4 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkm11&show_icons=true&locale=en" alt="varunkm11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkm11&" alt="varunkm11" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkm11&label=Profile%20views&color=0e75b6&style=flat" alt="varunkm11" /> </p>
+
 </div>

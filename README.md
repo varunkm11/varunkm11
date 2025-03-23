@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-ten-12.vercel.app/](https://portfolio-psi-ten-12.vercel.app/)
-
-- 📫 How to reach me **varunkumarsingh818@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1QzOA9eAl0LBxHOR4uZ-gNKgCuXcl7ef0/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-ten-12.vercel.app/](https://portfolio-psi-ten-12.vercel.app/).
+  
+- 📫 How to reach me **varunkumarsingh818@gmail.com**.
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1QzOA9eAl0LBxHOR4uZ-gNKgCuXcl7ef0/view?usp=sharing).
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

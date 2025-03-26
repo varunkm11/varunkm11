@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-psi-ten-12.vercel.app/](https://portfolio-psi-ten-12.vercel.app/).
+- 👨‍💻 All of my projects are available at [https://portfolio-psi-ten-12.vercel.app/](https://portfolio-psi-ten-12.vercel.app/)
   
-- 📫 How to reach me **varunkumarsingh818@gmail.com**.
+- 📫 How to reach me **varunkumarsingh818@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1QzOA9eAl0LBxHOR4uZ-gNKgCuXcl7ef0/view?usp=sharing).
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1QzOA9eAl0LBxHOR4uZ-gNKgCuXcl7ef0/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkm11&show_icons=true&locale=en" alt="varunkm11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkm11&" alt="varunkm11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkm11&" alt="GitHub Streak" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkm11&label=Profile%20views&color=0e75b6&style=flat" alt="varunkm11" /> </p>
 

@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **varunkumarsingh818@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1QzOA9eAl0LBxHOR4uZ-gNKgCuXcl7ef0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z24rUVPq0JNCFQOJsmTBakmqDZvBtGv3/view](https://drive.google.com/file/d/1pz07fD5qLi3p2r8JflihSRIwVD3o3hEo/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

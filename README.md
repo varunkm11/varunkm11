@@ -8,16 +8,25 @@
 ### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 🎓 B.E. Computer Science Student
 
 💡 I love solving real-world problems with tech and innovation.  
-Currently diving deep into **AI/ML**, **data science**, and **Python backend development**.
+Currently diving deep into **AI/ML**, **Data Science**, and **Python backend development**.
 
 
 ---
 
-### 🌐 Portfolio & Resume  
-📁 **Portfolio**: [Visit Now](https://portfolio-psi-ten-12.vercel.app/)  
-📄 **Resume**: [View CV](https://drive.google.com/file/d/1842rJY4UjcwOFPVWgDVxJYWUAPluJYdt/view?usp=sharing)
+### 🏆 GitHub Trophies
 
-📬 **Contact**: varunkumarsingh818@gmail.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varunkm11&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🌐 Portfolio & Resume  
+
+- 📁 **Portfolio**: [Varun Kumar Singh](https://portfolio-psi-ten-12.vercel.app/)  
+- 📄 **Resume**: [View CV](https://drive.google.com/file/d/1842rJY4UjcwOFPVWgDVxJYWUAPluJYdt/view?usp=sharing)  
+- 📬 **Contact**: varunkumarsingh818@gmail.com
+
 
 ---
 
@@ -54,15 +63,6 @@ Currently diving deep into **AI/ML**, **data science**, and **Python backend dev
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunkm11&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ### 🔝 Top Contributed Repos
 
 <p align="center">

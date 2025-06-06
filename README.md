@@ -39,7 +39,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,opencv,mysql,tensorflow,pytorch,django,oracle,matlab,pandas,sklearn,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,git,mysql,sklearn,tensorflow,pytorch,vscode" />
 </p>
 
 ---
@@ -58,14 +58,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=varunkm11&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---

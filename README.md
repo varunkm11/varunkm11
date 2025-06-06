@@ -57,9 +57,9 @@ Currently diving deep into **AI/ML**, **Data Science**, and **Python backend dev
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunkm11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunkm11&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkm11&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunkm11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunkm11&theme=tokyonight&hide_border=false" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkm11&theme=tokyonight&hide_border=false&layout=compact" width="40%" />
 </p>
 
 ---

@@ -1,5 +1,8 @@
 <div align="center">
-
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="varunkm11" />
+</p>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 # 👋 Hi, I'm Varun Kumar Singh  

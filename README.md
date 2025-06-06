@@ -3,12 +3,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="varunkm11" />
 </p>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  
+### 👋 Hi, I'm Varun Kumar Singh  
+### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 🎓 B.E. Computer Science Student
 
-# 👋 Hi, I'm Varun Kumar Singh  
-### 🚀 Aspiring Software Engineer | 🤖 AI & ML Enthusiast | 🎓 B.E Student
+💡 I love solving real-world problems with tech and innovation.  
+Currently diving deep into **AI/ML**, **data science**, and **Python backend development**.
 
-💡 I love solving real-world problems with tech and innovation. Currently diving deep into AI/ML, data, and backend engineering.
 
 ---
 

@@ -24,7 +24,7 @@ Currently diving deep into **AI/ML**, **Data Science**, and **Python backend dev
 ### 🌐 Portfolio & Resume  
 
 - 📁 **Portfolio**: [Varun Kumar Singh](https://portfolio-psi-ten-12.vercel.app/)  
-- 📄 **Resume**: [View CV](https://drive.google.com/file/d/1842rJY4UjcwOFPVWgDVxJYWUAPluJYdt/view?usp=sharing)  
+- 📄 **Resume**: [Varun_Kumar_Singh_RESUME](https://drive.google.com/file/d/1842rJY4UjcwOFPVWgDVxJYWUAPluJYdt/view?usp=sharing)  
 - 📬 **Contact**: varunkumarsingh818@gmail.com
 
 

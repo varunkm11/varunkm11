@@ -23,7 +23,7 @@ Currently diving deep into **Python developer**, **Data Science**, and **Python 
 
 ### 🌐 Portfolio & Resume  
 
-- 📁 **Portfolio**: [Varun Kumar Singh](https://my-portfolio-one-neon-39.vercel.app/)  
+- 📁 **Portfolio**: [Varun Kumar Singh](https://portfolio-psi-ten-12.vercel.app/)  
 - 📄 **Resume**: [Varun_Kumar_Singh_RESUME](https://drive.google.com/file/d/1842rJY4UjcwOFPVWgDVxJYWUAPluJYdt/view?usp=sharing)  
 - 📬 **Contact**: varunkumarsingh818@gmail.com
 

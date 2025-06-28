@@ -56,7 +56,7 @@ Currently diving deep into **Python developer**, **Data Science**, and **Python 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varunkm11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="40%" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=varunkm11&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=varunkm11&theme=tokyonight" alt="GitHub Streak" width="44%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunkm11&theme=tokyonight&hide_border=false&layout=compact" width="40%" />
 </p>
 

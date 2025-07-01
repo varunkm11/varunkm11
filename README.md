@@ -8,7 +8,7 @@
 ### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 🎓 B.E. Computer Science Student
 
 💡 I love solving real-world problems with tech and innovation.  
-Currently diving deep into **Python developer**, **Data Science**, and **Python backend development**.
+Currently diving deep into **Python developer**, **Data Science**,**Web Developer** and **Python backend development**.
 
 
 ---

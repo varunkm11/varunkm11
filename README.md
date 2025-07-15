@@ -24,7 +24,7 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
 ### 🌐 Portfolio & Resume  
 
 - 📁 **Portfolio**: [Varun Kumar Singh](https://my-portfolio-rho-eight-39.vercel.app/)  
-- 📄 **Resume**: [Varun_Kumar_Singh_RESUME](https://drive.google.com/file/d/1OquHcs8-oplCihJfEeytwM2YJpGtpzh0/view?usp=sharing)  
+- 📄 **Resume**: [Varun_Kumar_Singh_RESUME](https://drive.google.com/file/d/1iTcJHPIoWXBl1lokELWLv5J9tfoMp4Ab/view?usp=sharing)  
 - 📬 **Contact**: varunkumarsingh818@gmail.com
 
 

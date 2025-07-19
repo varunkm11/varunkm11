@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=pushkarkumarsaini2006&label=Profile%20views&color=blueviolet&style=flat" alt="varunkm11" />
 </p>
   
-### 👋 Hey, I'm Varun Kumar Singh  
+### 👋 Hi, I'm Varun Kumar Singh  
 ### 🐍 Python Developer | 🤖 AI & ML Enthusiast | 🎓 B.E. Computer Science Student
 
 💡 I love solving real-world problems with tech and innovation.  

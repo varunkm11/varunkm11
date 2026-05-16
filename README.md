@@ -64,30 +64,27 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas"/>
+   <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="45"/>
   </a>
   <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="45" />
   </a>
-  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
-    <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" height="28"/>
+   <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="45"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn">
-    <img src="https://skillicons.dev/icons?i=scikit-learn" alt="Scikit-learn"/>
+    <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"/>
   </a>
-  <a href="https://keras.io/" target="_blank" title="Keras">
-    <img src="https://skillicons.dev/icons?i=keras" alt="Keras"/>
-  </a>
   <a href="https://react.dev/" target="_blank" title="React">
     <img src="https://skillicons.dev/icons?i=react" alt="React"/>
   </a>
+  <a href="https://dev.mysql.com/" target="_blank" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</a>
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
     <img src="https://skillicons.dev/icons?i=django" alt="Django"/>
   </a>
@@ -107,10 +104,7 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" height="28"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" title="Tableau">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="45"/>
   </a>
 </p>
 

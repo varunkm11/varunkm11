@@ -97,9 +97,6 @@ Currently diving deep into **Python developer**, **Data Science**,**Web Develope
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
-  </a>
   <a href="https://www.getpostman.com/" target="_blank" title="Postman">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
   </a>
